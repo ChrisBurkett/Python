@@ -1,17 +1,17 @@
-<h1>SQL - Structured Query Language</h1>
+<h1>Python Test Game</h1>
 
 
 <h2>Description</h2>
-Project consists of a simple walkthough of MySQL.  Creating a new database, using a Entity Relationship Diagram (ERD), manually adding records in a table, create new SQL Views.
+This project consists of a basic Python text based game I build in College.  Creating a text based game required planning, programming and testing.
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>MySQL</b>
+- <b>Python</b>
 
 <h2>Environments Used </h2>
 
-- <b>Codio</b>
+- <b>PyCharm</b>
 
 <h2>Navigating MySQL:</h2>
 
