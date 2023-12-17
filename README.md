@@ -1,4 +1,4 @@
-<h1>Python Text Based Game Using "if, else"</h1>
+<h1>Python Text Based Game Using "if, else" Loops</h1>
 
 
 <h2>Description</h2>
