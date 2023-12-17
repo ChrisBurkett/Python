@@ -8,6 +8,9 @@ Project instructions where to create a simple python text based game using "if, 
 <h2>Languages and Utilities Used</h2>
 
 - <b>Python</b>
+- <b>Pseudocode</b>
+- <b>Flow Charts</b>
+
 
 <h2>Environments Used </h2>
 
