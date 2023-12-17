@@ -40,8 +40,8 @@ The Loops "if, else" in Python:  <br/>
 <img src="https://i.imgur.com/uMVUuGN.png" height="80%" width="80%" alt="The Code Part 2"/>
 <br />
 <br />
-Created a new view of the Customers Tables. To make the terminology match the RMA desk terminology.:  <br/>
-<img src="https://i.imgur.com/2Fs7Hin.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+My text based Python game running in Windows:  <br/>
+<img src="https://i.imgur.com/jCy7l20.png" height="80%" width="80%" alt="The Game"/>
 <br />
 <br />
 
