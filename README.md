@@ -48,7 +48,7 @@ My text based Python game running in Windows:  <br/>
 </b>
 <h>
 [SQL Creating and Manipulating a Database](https://github.com/ChrisBurkett/Python/blob/main/TextBasedGame_Burkett.py)
-<h/>
+</h>h>
 </p>
 
 <!--
