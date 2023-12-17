@@ -44,13 +44,13 @@ My text based Python game running in Windows:  <br/>
 <img src="https://i.imgur.com/jCy7l20.png" height="80%" width="80%" alt="The Game"/>
 <br />
 <br />
-<b>View my Phython Game Code:<b>
-[View my Phython Game]([https://github.com/ChrisBurkett/SQL](https://github.com/ChrisBurkett/Python/blob/main/game_code))
+<b>
+</b>
+  - [SQL Creating and Manipulating a Database](https://github.com/ChrisBurkett/SQL)
 
 </p>
 
 
-https://github.com/ChrisBurkett/Python/blob/main/game_code
 
 <!--
  ```diff
