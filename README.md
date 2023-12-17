@@ -15,16 +15,17 @@ Project instructions where to create a simple python text based game using "if, 
 <h2>Environments Used </h2>
 
 - <b>PyCharm</b>
+- <b>Notepad ++</b>
 
 <h2>Navigating MySQL:</h2>
 
 <p align="center">
-Creating a Databes and Listing the Databases available: <br/>
-<img src="https://i.imgur.com/cPtXXSx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+First I created a flowchart to help visualize the code: <br/>
+<img src="https://i.imgur.com/mjHeVKd.png" height="80%" width="80%" alt="Flowchart"/>
 <br />
 <br />
-Using a entity relationship diagram (ERD) as a reference, I created the following tables with the appropriate attributes and keys:  <br/>
-<img src="https://i.imgur.com/SszxVNY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Next I write Pseudocode to help understand the structure of the "if, else" loops:  <br/>
+<img src="https://i.imgur.com/1HqXUhE.png" height="80%" width="80%" alt="Pseudocode Rooms"/>
 <br />
 <br />
 Created a table requested by Customer Service. Using a Primary Key to link data with foreign keys to build a usable table: <br/>
