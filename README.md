@@ -25,7 +25,7 @@ First I created a flowchart to help visualize the code: <br/>
 <br />
 <br />
 Next I write Pseudocode to help understand the structure of the "if, else" loops:  <br/>
-<img src="https://i.imgur.com/1HqXUhE.png" height="80%" width="80%" alt="Pseudocode Rooms"/>
+<img src="https://i.imgur.com/VR4VWgo.png" height="80%" width="80%" alt="Pseudocode Rooms"/>
 <br />
 <br />
 Created a table requested by Customer Service. Using a Primary Key to link data with foreign keys to build a usable table: <br/>
