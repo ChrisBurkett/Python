@@ -17,19 +17,19 @@ Project instructions where to create a simple python text based game using "if, 
 - <b>PyCharm</b>
 - <b>Notepad ++</b>
 
-<h2>Navigating MySQL:</h2>
+<h2>Python Text Based Game:</h2>
 
 <p align="center">
-First I created a flowchart to help visualize the code: <br/>
+I created a flowchart to help visualize the code: <br/>
 <img src="https://i.imgur.com/mjHeVKd.png" height="80%" width="80%" alt="Flowchart"/>
 <br />
 <br />
-Next I write Pseudocode to help understand the structure of the "if, else" loops:  <br/>
+I wrote Pseudocode to help understand the structure of the "if, else" loops to move between rooms:  <br/>
 <img src="https://i.imgur.com/VR4VWgo.png" height="80%" width="80%" alt="Pseudocode Rooms"/>
 <br />
 <br />
-Created a table requested by Customer Service. Using a Primary Key to link data with foreign keys to build a usable table: <br/>
-<img src="https://i.imgur.com/U4ZYIjE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Pseudocode to help understand the structure of the "if, else" loop to get an item: <br/>
+<img src="https://i.imgur.com/8lwzdLs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Created an RMA table as reqeusted on the entity relationship diagram ERD:  <br/>
