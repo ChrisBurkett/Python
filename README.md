@@ -51,8 +51,11 @@ My text based Python game running in Windows:  <br/>
 </b>
 [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 </h>
+<p align="center">
 
   - [Full Game Code: Python](https://github.com/ChrisBurkett/Python/blob/main/TextBasedGame_Burkett.py)
+
+</p>
 <!--
  ```diff
 - text in red
