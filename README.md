@@ -46,7 +46,8 @@ My text based Python game running in Windows:  <br/>
 <br />
 <b>
 </b>
-[SQL Creating and Manipulating a Database](https://github.com/ChrisBurkett/Python/blob/main/TextBasedGame_Burkett.py) </b></i>
+[SQL Creating and Manipulating a Database](https://github.com/ChrisBurkett/Python/blob/main/TextBasedGame_Burkett.py)
+[Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 
 </p>
 
