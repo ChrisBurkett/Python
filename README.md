@@ -45,14 +45,11 @@ My text based Python game running in Windows:  <br/>
 <br />
 <br />
 </p>
-<h>
- <b>
- [SQL Creating and Manipulating a Database](https://github.com/ChrisBurkett/Python/blob/main/TextBasedGame_Burkett.py)
-</b>
-[FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-</h>
-
+<b>
+ 
 [Full Game Code: Python](https://github.com/ChrisBurkett/Python/blob/main/game_code)
+</b>
+
 [Game File: Python](https://github.com/ChrisBurkett/Python/blob/main/TextBasedGame_Burkett.py)
 
 
