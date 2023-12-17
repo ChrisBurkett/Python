@@ -46,8 +46,9 @@ My text based Python game running in Windows:  <br/>
 <br />
 </p>
 <h>
-[SQL Creating and Manipulating a Database](https://github.com/ChrisBurkett/Python/blob/main/TextBasedGame_Burkett.py)
- <b></b>
+ <b>
+ [SQL Creating and Manipulating a Database](https://github.com/ChrisBurkett/Python/blob/main/TextBasedGame_Burkett.py)
+</b>
 [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 </h>
 <!--
