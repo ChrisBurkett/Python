@@ -44,14 +44,10 @@ My text based Python game running in Windows:  <br/>
 <img src="https://i.imgur.com/jCy7l20.png" height="80%" width="80%" alt="The Game"/>
 <br />
 <br />
-<b>
-</b>
+</p>
 <h>
 [SQL Creating and Manipulating a Database](https://github.com/ChrisBurkett/Python/blob/main/TextBasedGame_Burkett.py)
-</h>h>
-</p>
-[SQL Creating and Manipulating a Database](https://github.com/ChrisBurkett/Python/blob/main/TextBasedGame_Burkett.py)
-
+</h>
 <!--
  ```diff
 - text in red
