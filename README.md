@@ -29,15 +29,15 @@ I wrote Pseudocode to help understand the structure of the "if, else" loops to m
 <br />
 <br />
 Pseudocode to help understand the structure of the "if, else" loop to get an item: <br/>
-<img src="https://i.imgur.com/8lwzdLs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8lwzdLs.png" height="80%" width="80%" alt="Pseudocode Get Items"/>
 <br />
 <br />
-Created an RMA table as reqeusted on the entity relationship diagram ERD:  <br/>
-<img src="https://i.imgur.com/BcG0LjL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The instructions and defencions of the game in Python:  <br/>
+<img src="https://i.imgur.com/5MIU5XF.png" height="80%" width="80%" alt="The Code Part 1"/>
 <br />
 <br />
 3.	Manually add 10 records into the Customers table:  <br/>
-<img src="https://i.imgur.com/9s5tCfg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9s5tCfg.png" height="80%" width="80%" alt="The Code Part 2"/>
 <br />
 <br />
 Created a new view of the Customers Tables. To make the terminology match the RMA desk terminology.:  <br/>
