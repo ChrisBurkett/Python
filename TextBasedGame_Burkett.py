@@ -1,0 +1,71 @@
+#Christopher Burkett
+def opening():
+    print('\nWelcome to my game module 7 Christopher Burkett')
+    print('\nTo quit the game: go Exit')
+    print('You can move ''go North, go South, go West, go East')
+    print('To pick up item: get "item name"')
+
+def move_between_rooms(current_room, move, rooms):
+    current_room = rooms[current_room][move]
+    return current_room
+
+
+def get_item(current_room, move, rooms, inventory):
+    inventory.append(rooms[current_room]['item'])
+    del rooms[current_room]['item']
+
+
+def main():
+    rooms = {
+        'Work Shop': {'Exit': 'Exit', 'South': 'Bedroom', 'North': 'Kitchen', 'East': 'Dining Room', 'West': 'Bathroom'},
+        'Bedroom': {'Exit': 'Exit', 'North': 'Work Shop', 'East': 'Garage', 'item': 'Motors'},
+        'Garage': {'Exit': 'Exit', 'West': 'Bedroom', 'item': 'Frame'},
+        'Kitchen': {'Exit': 'Exit', 'South': 'Work Shop', 'West': 'Outside', 'East': 'Basement', 'item': 'Flight Controller'},
+        'Basement': {'Exit': 'Exit', 'West': 'Kitchen', 'item': 'Battery'},
+        'Bathroom': {'Exit': 'Exit', 'East': 'Work Shop', 'item': 'Camera'},
+        'Dining Room': {'Exit': 'Exit', 'West': 'Work Shop', 'item': 'Controller'},
+        'Outside': '',
+        'Exit': ''
+
+    }
+    s = ' '
+    inventory = []
+    current_room = "Work Shop"
+    opening()
+
+    while True:
+
+        if current_room == 'Outside':
+            if len(inventory) == 6:
+                print('You beat the other racers!')
+                print('Thank you for playing!')
+                break
+            else:
+                print('\nSnap! You did not collect all of the items!')
+                print('You lost the race :(')
+                break
+        print('You are in the ' + current_room)
+        print(inventory)
+        if current_room == 'Exit':
+            print('Exit')
+            print('Thank you for playing, you quit the game')
+            break
+        if current_room != 'Outside' and 'item' in rooms[current_room].keys():
+            print('You see the {}'.format(rooms[current_room]['item']))
+        print('------------------------------')
+        move = input('Enter your move: ').title().split()
+
+        if len(move) >= 2 and move[1] in rooms[current_room].keys():
+            current_room = move_between_rooms(current_room, move[1], rooms)
+            continue
+        elif len(move[0]) == 3 and move[0] == 'Get' and ' '.join(move[1:]) in rooms[current_room]['item']:
+            print('You pick up the {}'.format(rooms[current_room]['item']))
+            print('------------------------------')
+            get_item(current_room, move, rooms, inventory)
+            continue
+        else:
+            print('Not valid, try again. \n \n"go East, go South, go West, go North" \n \nget "item name"')
+            print('\nto quit "go Exit"\n')
+            continue
+main()
+input()
