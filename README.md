@@ -1,8 +1,8 @@
-<h1>Python Test Game</h1>
+<h1>Python Text Based Game Using "if, else"</h1>
 
 
 <h2>Description</h2>
-This project consists of a basic Python text based game I build in College.  Creating a text based game required planning, programming and testing.
+Project instructions where to create a simple python text based game using "if, else" statements of a basic Python text based game I build in College. Creating a text based game required planning, programming and testing.
 
 
 <h2>Languages and Utilities Used</h2>
