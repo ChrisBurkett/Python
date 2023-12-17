@@ -50,6 +50,7 @@ My text based Python game running in Windows:  <br/>
 [SQL Creating and Manipulating a Database](https://github.com/ChrisBurkett/Python/blob/main/TextBasedGame_Burkett.py)
 </h>h>
 </p>
+[SQL Creating and Manipulating a Database](https://github.com/ChrisBurkett/Python/blob/main/TextBasedGame_Burkett.py)
 
 <!--
  ```diff
