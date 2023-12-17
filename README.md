@@ -36,8 +36,8 @@ The instructions and defencions of the game in Python:  <br/>
 <img src="https://i.imgur.com/5MIU5XF.png" height="80%" width="80%" alt="The Code Part 1"/>
 <br />
 <br />
-3.	Manually add 10 records into the Customers table:  <br/>
-<img src="https://i.imgur.com/9s5tCfg.png" height="80%" width="80%" alt="The Code Part 2"/>
+The Loops "if, else" in Python:  <br/>
+<img src="https://i.imgur.com/uMVUuGN.png" height="80%" width="80%" alt="The Code Part 2"/>
 <br />
 <br />
 Created a new view of the Customers Tables. To make the terminology match the RMA desk terminology.:  <br/>
