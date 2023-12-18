@@ -18,6 +18,12 @@ Project instructions where to create a simple python text based game using "if, 
 - <b>Visual Studio Code</b>
 - <b>Notepad ++</b>
 
+<h2>Files </h2>
+
+[Full Game Code: Python](https://github.com/ChrisBurkett/Python/blob/main/game_code)
+
+[Game File: Python](https://github.com/ChrisBurkett/Python/blob/main/TextBasedGame_Burkett.py)
+
 <h2>Python Text Based Game:</h2>
 
 <p align="center">
@@ -46,12 +52,7 @@ My text based Python game running in Windows:  <br/>
 <br />
 <br />
 </p>
-<b>
- 
-[Full Game Code: Python](https://github.com/ChrisBurkett/Python/blob/main/game_code)
-</b>
 
-[Game File: Python](https://github.com/ChrisBurkett/Python/blob/main/TextBasedGame_Burkett.py)
 
 
 <!--
