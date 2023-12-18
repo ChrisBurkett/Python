@@ -15,6 +15,7 @@ Project instructions where to create a simple python text based game using "if, 
 <h2>Environments Used </h2>
 
 - <b>PyCharm</b>
+- <b>Visual Studio Code</b>
 - <b>Notepad ++</b>
 
 <h2>Python Text Based Game:</h2>
